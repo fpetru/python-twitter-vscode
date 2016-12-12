@@ -1,0 +1,44 @@
+[
+    {
+        "username": "Virendra Beniwal",
+        "profile_image": "https://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+        "screen_name": "@VirendraBeniwa3",
+        "profile_description": "",
+        "text": "RT @DBaker007: Charts In #AngularJS Using #WebAPI by @sourabh_mishra1 via @CsharpCorner https://t.co/WuVDEeqtJR #JavaScript https://t.co/BX\u2026"
+    },
+    {
+        "username": "Virendra Beniwal",
+        "profile_image": "https://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+        "screen_name": "@VirendraBeniwa3",
+        "profile_description": "",
+        "text": "RT @DBaker007: Charts In #AngularJS Using #WebAPI by @sourabh_mishra1 via @CsharpCorner https://t.co/WuVDEeqtJR #JavaScript #CsharpCorner h\u2026"
+    },
+    {
+        "username": "Bikesh srivastava",
+        "profile_image": "https://pbs.twimg.com/profile_images/767923449838784512/r5iwGolc_normal.jpg",
+        "screen_name": "@Bikeshsrivastav",
+        "profile_description": "Software Engineer with HytechPro,Trainer,Blogger,Consultant and Author,@CsharpCorner https://t.co/0joIa9eyFw",
+        "text": "RT @DBaker007: Charts In #AngularJS Using #WebAPI by @sourabh_mishra1 via @CsharpCorner https://t.co/WuVDEeqtJR #JavaScript https://t.co/BX\u2026"
+    },
+    {
+        "username": "Bhoopendra Bhardwaj",
+        "profile_image": "https://pbs.twimg.com/profile_images/805405113288454145/9mYNq0LB_normal.jpg",
+        "screen_name": "@BkBhardwaj92",
+        "profile_description": "",
+        "text": "RT @OliviaFreyaa: Creating #WebAPI using #Nodejs and #mysql by @jinalshah999 https://t.co/rYDdmp4fZS cc @CsharpCorner"
+    },
+    {
+        "username": "The Klingon",
+        "profile_image": "https://pbs.twimg.com/profile_images/716294559605501952/_uQK36e4_normal.jpg",
+        "screen_name": "@TheKlingon_",
+        "profile_description": "#UWP #developer, #Windows enthusiast, #Windows #Insider, #Xamarin #developer and #webmaster. I see the world in code.",
+        "text": "RT @OliviaFreyaa: Creating #WebAPI using #Nodejs and #mysql by @jinalshah999 https://t.co/rYDdmp4fZS cc @CsharpCorner"
+    },
+    {
+        "username": "The Daily Web",
+        "profile_image": "https://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+        "screen_name": "@TheDaily_Web",
+        "profile_description": "The Daily Web is a Twitter bot to retweet the best web-related tweets.",
+        "text": "RT @DBaker007: Using #MongoDB with #WebAPI and #ASPNETCore by @maheshdotnet via @DotNetCurry https://t.co/USsHTBZDdy #MVC https://t.co/Yg6W\u2026"
+    }
+]
