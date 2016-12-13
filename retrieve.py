@@ -2,7 +2,7 @@
 """This script connects and extract from Twitter more messages (tweets) as json file
 """
 import json
-import configparser
+import configparser 
 from TwitterAPI import TwitterAPI
 from TwitterAPI import TwitterRestPager
 
