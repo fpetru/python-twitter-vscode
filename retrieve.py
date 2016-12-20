@@ -12,7 +12,7 @@ start = time.time()
 print("starting to retrieve tweets...")
 
 configValues = configparser.RawConfigParser()
-configValues.read(r'.\config.real.ini')
+configValues.read(r'.\config.ini')
 
 TWITTER_API = TwitterAPI(configValues.get('TwitterSettings', 'consumer_key'),
                          configValues.get('TwitterSettings', 'consumer_secret'),
@@ -47,11 +47,12 @@ for item in TWITTER_PAGER.get_iterator():
         print('SUSPEND, RATE LIMIT EXCEEDED: %s\n' % item['message'])
         break
 
-    if len(response) > 99:
+    # limit the number of tweets retrieved
+    if len(response) > 50:
         break
 
 with open(r'.\twitter.json', 'w') as outfile:
     json.dump(response, outfile, indent=4)
 
 end = time.time()
-print('found %d tweets in %s' % (len(response), str(timedelta(seconds=end-start)))
+print('found %d tweets in %s' % (len(response), str(timedelta(seconds=end-start))))
